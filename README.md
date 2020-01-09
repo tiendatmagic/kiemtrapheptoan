@@ -3,6 +3,7 @@ Sau đây là giao diện tổng quát về chương trình
 ![Image](https://cdn.glitch.com/a67afc81-5438-418b-a97b-7bb10c7d4cf4%2F1.png?v=1578555823946)
 
 Giá trị 1: Dùng để nhập giá trị a
+
 Giá trị 2: Dùng để nhập giá trị b
 
 Các phép toán tử
