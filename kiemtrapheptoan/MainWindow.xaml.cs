@@ -35,8 +35,9 @@ namespace kiemtrapheptoan
                 }
                 else
                 {
-                    int a = Convert.ToInt32(txt_gt1.Text);
-                    int b = Convert.ToInt32(txt_gt2.Text);
+                float a = float.Parse(txt_gt1.Text);
+                float b = float.Parse(txt_gt2.Text);
+                
 
                     if (r1.IsChecked == true)
 
