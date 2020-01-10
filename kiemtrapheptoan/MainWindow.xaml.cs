@@ -48,7 +48,7 @@ namespace kiemtrapheptoan
                     if (r3.IsChecked == true)
                         txt_kq.Text = mu(a, b).ToString();
                     if (r4.IsChecked == true)
-                        txt_kq.Text = txt_gt1.Text+ txt_gt2.Text;
+                        txt_kq.Text = txt_gt1.Text + txt_gt2.Text;
                 }     
            
         }
