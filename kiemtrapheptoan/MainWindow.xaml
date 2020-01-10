@@ -19,7 +19,7 @@
         <TextBox x:Name="txt_kq" HorizontalAlignment="Left" Height="26" Margin="429,79,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="184" IsEnabled="False" IsUndoEnabled="False"/>
         <Label x:Name="label_Copy1" Content="Kết quả:" HorizontalAlignment="Left" Margin="490,48,0,0" VerticalAlignment="Top"/>
         <Button x:Name="btn_tinh" Content="Tính" HorizontalAlignment="Left" Height="39" Margin="471,154,0,0" VerticalAlignment="Top" Width="103" Click="Btn_tinh_Click"/>
-        <Label x:Name="label1" Content="@2020 Copyright by Tiendatmagic" HorizontalAlignment="Left" Margin="36,285,0,0" VerticalAlignment="Top" Background="White" Foreground="#FFFF00AE" FontSize="14" FontWeight="Bold">
+        <Label x:Name="label1" Content="©2020 Copyright by Tiendatmagic" HorizontalAlignment="Left" Margin="36,285,0,0" VerticalAlignment="Top" Background="White" Foreground="#FFFF00AE" FontSize="14" FontWeight="Bold">
             <Label.BorderBrush>
                 <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
                     <GradientStop Color="Black" Offset="0"/>

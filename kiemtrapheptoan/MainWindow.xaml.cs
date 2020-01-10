@@ -15,7 +15,7 @@ using System.Windows.Shapes;
 
 namespace kiemtrapheptoan
 {
-    /* @2020 Copyright by Tiendatmagic */
+    /* ©2020 Copyright by Tiendatmagic */
     /// <summary>
     /// Interaction logic for MainWindow.xaml
     /// </summary>
@@ -25,7 +25,7 @@ namespace kiemtrapheptoan
         {
             InitializeComponent();
         }
-
+        /* ©2020 Copyright by Tiendatmagic */
         private void Btn_tinh_Click(object sender, RoutedEventArgs e)
         {
             
@@ -35,8 +35,8 @@ namespace kiemtrapheptoan
                 }
                 else
                 {
-                float a = float.Parse(txt_gt1.Text);
-                float b = float.Parse(txt_gt2.Text);
+                double a = double.Parse(txt_gt1.Text);
+                double b = double.Parse(txt_gt2.Text);
                 
 
                     if (r1.IsChecked == true)
@@ -48,7 +48,7 @@ namespace kiemtrapheptoan
                     if (r3.IsChecked == true)
                         txt_kq.Text = mu(a, b).ToString();
                     if (r4.IsChecked == true)
-                        txt_kq.Text = txt_gt1.Text + txt_gt2.Text;
+                        txt_kq.Text = txt_gt1.Text+ txt_gt2.Text;
                 }     
            
         }
@@ -73,4 +73,4 @@ namespace kiemtrapheptoan
         }
     }
 }
-/* @2020 Copyright by Tiendatmagic */
+/* ©2020 Copyright by Tiendatmagic */
